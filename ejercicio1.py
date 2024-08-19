@@ -35,5 +35,5 @@ def registrar_perro():
     perro.registrar()
     perro.mostrar_info()
 
-# Llamada a la función para registrar un perro
+
 registrar_perro()
